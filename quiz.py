@@ -83,4 +83,6 @@ if a == "c":
 else:
     print("Respuesta incorrecta")
 
+print("Tu puntuación final es: ", cont)
+
 
